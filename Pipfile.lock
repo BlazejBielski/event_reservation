@@ -1,0 +1,62 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "66c7a6d40334e5d71821fe25184e7f8665b24487b2d27a662ec1885458d31e1e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "asgiref": {
+            "hashes": [
+                "sha256:1d2880b792ae8757289136f1db2b7b99100ce959b2aa57fd69dab783d05afac4",
+                "sha256:4a29362a6acebe09bf1d6640db38c1dc3d9217c68e6f9f6204d72667fc19a424"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.5.2"
+        },
+        "dj-database-url": {
+            "hashes": [
+                "sha256:ccf3e8718f75ddd147a1e212fca88eecdaa721759ee48e38b485481c77bca3dc",
+                "sha256:cd354a3b7a9136d78d64c17b2aec369e2ae5616fbca6bfbe435ef15bb372ce39"
+            ],
+            "index": "pypi",
+            "version": "==1.0"
+        },
+        "django": {
+            "hashes": [
+                "sha256:26dc24f99c8956374a054bcbf58aab8dc0cad2e6ac82b0fe036b752c00eee793",
+                "sha256:b8d843714810ab88d59344507d4447be8b2cf12a49031363b6eed9f1b9b2280f"
+            ],
+            "index": "pypi",
+            "version": "==4.1.2"
+        },
+        "environ": {
+            "hashes": [
+                "sha256:052ded34331655b9c7982abd5681a066b9aaf9adf33b3412c7e842ce959e40b0",
+                "sha256:4df7f1dfeb7d1c988d2e19a8bd5d547a526e0400aeb35adf732032472f35dcb0",
+                "sha256:9266e62dd8004f3bf181b24c97aa129844e7e7ec87bf3ed06ef3888293212011"
+            ],
+            "index": "pypi",
+            "version": "==1.0"
+        },
+        "sqlparse": {
+            "hashes": [
+                "sha256:0323c0ec29cd52bceabc1b4d9d579e311f3e4961b98d174201d5622a23b85e34",
+                "sha256:69ca804846bb114d2ec380e4360a8a340db83f0ccf3afceeb1404df028f57268"
+            ],
+            "markers": "python_version >= '3.5'",
+            "version": "==0.4.3"
+        }
+    },
+    "develop": {}
+}

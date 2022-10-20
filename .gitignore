@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,django,react
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django,react
-
+.idea
 ### Django ###
 *.log
 *.pot
@@ -132,11 +132,11 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+.env/.env
 .venv
-env/
+env/.env
 venv/
-ENV/
+ENV/.env
 env.bak/
 venv.bak/
 
